@@ -1,0 +1,5 @@
+len = 2
+num_str_1[62] = 1
+num_str_2[62] = 1
+num_str_1[63] = 1
+num_str_2[63] = 0

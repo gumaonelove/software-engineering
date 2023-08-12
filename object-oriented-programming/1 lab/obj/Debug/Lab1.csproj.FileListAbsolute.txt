@@ -1,0 +1,16 @@
+D:\others\учеба\ООП\1\Lab1\bin\Debug\Lab1.exe.config
+D:\others\учеба\ООП\1\Lab1\bin\Debug\Lab1.exe
+D:\others\учеба\ООП\1\Lab1\bin\Debug\Lab1.pdb
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.exe
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.pdb
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Task1.resources
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Task2.resources
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Task3.resources
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Task4.resources
+D:\others\учеба\ООП\1\Lab1\obj\Debug\Lab1.Task5.resources
